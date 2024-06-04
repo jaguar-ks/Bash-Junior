@@ -11,9 +11,13 @@
     1. [Identifying](#identifying)
 1. [Author & Final mark](#author--final-mark)
 
+___
+
 ## Introduction
 
 The objective of this project is to implement a simple shell in **`C`**. This shell will handle various signals, special characters, and environment variables.
+
+___
 
 ## Instalation and Usage
 
@@ -39,6 +43,8 @@ make sure u have the ***`readline`*** library installed if you are on ***`macOS`
 
 that assuming you already have brew if not you can know how to set it up [here](https://github.com/kube/42homebrew)
 
+___
+
 ### Usage
 
 After installing all depandencies you can run the following command on the root of the project:
@@ -47,7 +53,7 @@ After installing all depandencies you can run the following command on the root 
     make && ./minishell
 ```
 
----
+___
 
 ## Parsing
 
@@ -61,7 +67,7 @@ The process will result in a structure resembling the following:
 
 ![demonstration](./demo.png)
 
----
+___
 
 ### Identifying
 
@@ -87,7 +93,7 @@ Finally, we identify the flags and arguments.
 
 > **Note:** If a **flag** is found after an **argument**, it constitutes an error.
 
----
+___
 
 ## Author & Final mark
 
