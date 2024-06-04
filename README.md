@@ -47,6 +47,8 @@ After installing all depandencies you can run the following command on the root 
     make && ./minishell
 ```
 
+---
+
 ## Parsing
 
 ### Splitting
