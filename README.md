@@ -49,8 +49,8 @@ $> make docker
 
 
 ```bash
-$> git clone 'git@github.com:jaguar-ks/MINI_SHELL.git'
-$> cd MINI_SHELL
+$> git clone 'git@github.com:jaguar-ks/Bash-Junior.git'
+$> cd Bash-Junior
 # ***`MacOS`*** : make sure you have the ***`readline`*** library installed (https://github.com/kube/42homebrew)
 $> brew install readline
 # ***`Debian`*** : make sure you have the ***`libreadline-dev && pkg-config`*** packages installed
