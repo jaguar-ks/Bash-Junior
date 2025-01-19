@@ -1,4 +1,4 @@
-# Mini Shell (As Beautiful as a Shell)
+# Bash-Junior (As Beautiful as a Shell)
 
 ## Navigation
 
